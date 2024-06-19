@@ -1,1 +1,1 @@
-# stylized-foliage
+# Stylized Foliage
