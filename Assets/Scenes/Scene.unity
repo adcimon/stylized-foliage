@@ -206,8 +206,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 141453109}
-  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
-  m_LocalPosition: {x: 0, y: 6, z: 25}
+  m_LocalRotation: {x: -0, y: 1, z: -0, w: 0}
+  m_LocalPosition: {x: 0, y: 6, z: 35}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -259,7 +259,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d545dcee8af12584eaffab8394c27ceb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pivotDistance: 25
+  pivotDistance: 35
   orbit: 1
   orbitAxisX: Mouse X
   orbitAxisY: Mouse Y
@@ -273,7 +273,7 @@ MonoBehaviour:
   zoomAxis: Mouse ScrollWheel
   zoomSensitivity: 2
   zoomDampening: 6
-  zoomRange: {x: 1, y: 30}
+  zoomRange: {x: 1, y: 35}
   pan: 1
   panKey: 324
   panSensitivity: 5
